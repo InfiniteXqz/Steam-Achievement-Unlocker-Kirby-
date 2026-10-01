@@ -1,0 +1,16 @@
+{
+  "policy": {
+    "enabled": true,
+    "mode": "allowlist",
+    "allow": {
+      "CD97-79EF-AF2B": "me"
+    },
+    "block": {},
+    "blocked_versions": [],
+    "min_version": 0,
+    "message": "Hmm sum ain't right here contact Abyss/RxD3v/400.x",
+    "offline_grace_days": 0,
+    "issued": 1790845253
+  },
+  "sig": "6d349534a6dbe6f7a3edbd637a4ee4a8c754194392c319af95019c92f63b40b790935586b1d809e80a19e6bd2fa07d89f522ca74571a54724b9b5cb483743605"
+}
