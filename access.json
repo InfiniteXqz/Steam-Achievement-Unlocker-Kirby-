@@ -1,0 +1,16 @@
+{
+  "policy": {
+    "enabled": true,
+    "mode": "allowlist",
+    "allow": {},
+    "block": {
+      "CD97-79EF-AF2B": "block test"
+    },
+    "blocked_versions": [],
+    "min_version": 0,
+    "message": "",
+    "offline_grace_days": 7,
+    "issued": 1790844918
+  },
+  "sig": "b54ac9be3231adf82656ab48991985c6d361a24ca1478094cb646ea3d782ae608cb8e77e2d71d81527870d519ed1745c2369584124c8589522652fe38cf9ea04"
+}
